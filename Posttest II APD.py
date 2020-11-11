@@ -105,7 +105,7 @@ def makanan():
         print("%s" % (mkn))
         pesan_mkn.pop(0)
         pesan_mkn.insert(0,mkn)
-        clear_screen
+        clear_screen()
         print("="*42)
         mkn_brp = int(input("\tAnda ingin pesan berapa? "))
         print("="*42)
