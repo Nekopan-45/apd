@@ -1,6 +1,3 @@
-import os
-import time
-
 while True:
         os.system('cls' if os.name == 'nt' else 'clear')
         digit = int(input("Masukkan NIM anda + 10: "))
