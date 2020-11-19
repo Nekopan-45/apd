@@ -1,4 +1,5 @@
 while True:
+        #NIM Rivan Abdillah : 2009106025 + 10 = 35
         digit = int(input("Masukkan NIM anda + 10: "))
         y = 1
         x = 1
